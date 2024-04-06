@@ -1,4 +1,16 @@
-<div class="page__footer-follow">
+<style>
+  .page__footer {
+    background-image: url("{{'/assets/images/tatto.jpg' | relative_url}}");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+</style>
+
+<!-- Your existing code here -->
+
+<div class="page__footer">
+  <!-- Footer content -->
+</div>
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
