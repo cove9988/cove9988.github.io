@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Paul Guo
+title: Dataism
 email: cove9988@gmail.com
-description: Passionate about ML, RF, LLM, and automation, firmly believe we stand on the brink of the Singularity, where humanity will transcend Homo Sapiens to become Cyber. 
+description: "Passionate about ML, RF, LLM, and automation, firmly believe we stand on the brink of the Singularity, where humanity will transcend Homo Sapiens to become Cyber."
   
 twitter_username: cove9988
 github_username: cove9988
@@ -127,3 +127,5 @@ analytics:
   google:
     tracking_id: "G-6J2NKQ41TS"
     anonymize_ip: false # default
+
+github: [metadata]
