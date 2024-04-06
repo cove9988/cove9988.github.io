@@ -3,17 +3,20 @@ permalink: /about/
 title: "About"
 ---
 
-Hello surfer, welcome to our site where we will write blogs for those person who are in hurry and will not be able to watch videos compeletly.
+As an Experienced Data Engineer with over 20 years of expertise, I have successfully navigated the realms of data modelling, engineering, and database management. My skills extend to various databases, including Postgres, Greenplum, Sybase, and MS SQL, as well as big data technologies like Spark and Zeppelin. Throughout my career, I’ve demonstrated the ability to translate business requirements into precise technical specifications, leading project teams to successful outcomes. My track record includes implementing data solutions, automating CI/CD pipelines, and consistently improving code quality within high-performance data engineering teams.
 
-## Who are we?
-We are bunch of learners/professionals trying to share our skills via best way possible.
+**Python Proficiency:**
+More than 6 years of Python working experience, my expertise lies in developing robust solutions, capturing data, and integrating systems. I’ve applied my skills through hands-on work with OpenAI gym and stable baseline3 (github.com/cove9988/tradinggym).
 
-## What will we cover on our contents?
-We will cover contents that will help those persons who are already on Data field or are willing to get into it. We will cover from Data Extraction to Model Deployment. 
+**Large Language Model (LLM):** 
+My passion for technology extends beyond data engineering. I’ve actively contributed to the dbgpt project (text2SQL), leveraging LLM capabilities to enhance text understanding and generation.
 
-## How to reach us?
-Just mail us on `thedatacoil<at>gmail.com`.
+**Analytical Skills and Achievements: **
+My data-driven analytical skills, combined with a can-do attitude, enable me to tackle complex technical requirements. Whether its business process modelling or mapping, I thrive on translating abstract concepts into clear technical specifications. My attention to detail and analytical troubleshooting abilities ensure that I address any issues that may arise during project execution.
 
-## How to stay updated with us?
-Best answer is, please subscribe our [YouTube Channel](https://www.youtube.com/channel/UCbE2aft-tZPrx93SvyGDkhQ) and keep notified.
+**Notable Achievements:**
+- IAG 2018 hackathon for "Crazy enough if it may work" and being on the final list.
+- DAG hackathon for a Slack-bot for huddle team.
+- 2nd prize of IAG 2019 and 2021 international Game of Code.
+- 2022 Finalist: Enterprise NRMA chatbot with GPT-3
 
