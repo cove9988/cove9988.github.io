@@ -13,19 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Data Coil
-email: thedatacoil@gmail.com
-description: A simple data projects and concepts site.
+title: Paul Guo
+email: cove9988@gmail.com
+description: Passionate about ML, RF, LLM, and automation, firmly believe we stand on the brink of the Singularity, where humanity will transcend Homo Sapiens to become Cyber. 
   
-twitter_username: thedatacoil
-github_username: data-coil
+twitter_username: cove9988
+github_username: cove9988
 minimal_mistakes_skin: default
 search: true
 
 # Build settings
 markdown: kramdown
 
-repository: data-coil/data-coil.github.io
+repository: cove9988/cove9988.github.io
  
 remote_theme: mmistakes/minimal-mistakes
 # theme: minimal-mistakes-jekyll
@@ -60,19 +60,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Data Coil"
-  avatar : "/assets/images/datacoil-06.png"
+  name   : "Paul Guo"
+  avatar : "/assets/images/dragon.jpeg"
   bio    : "A simple Platform to learn about data project and concepts.."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://data-coil.github.io"
+      url: "https://cove9988.github.io"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/data-coil"
+      url: "https://github.com/cove9988"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
@@ -84,7 +84,7 @@ footer:
     #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/data-coil"
+      url: "https://github.com/cove9988"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
