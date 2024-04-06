@@ -17,7 +17,7 @@ My data-driven analytical skills, combined with a can-do attitude, enable me to 
 **Notable Achievements:**
 - [IAG 2018 hackathon for "Crazy enough if it may work" and being on the final list.](https://www.youtube.com/watch?v=jwBzT43SS3I)
 - DAG hackathon for a Slack-bot for huddle team.
-- 2nd prize of IAG 2019 and 2021 international Game of Code.
-- [2022 Finalist: Enterprise NRMA chatbot with GPT-3]()
+- [2nd prize of IAG 2019 and 2021 international Game of Code.]()
+- [2022 Finalist: Enterprise NRMA chatbot with GPT-3](https://www.youtube.com/watch?v=_VfLa9PNgBY)
 - [2024 Postgres Contributor](../assets/images/postgres.png)
 
