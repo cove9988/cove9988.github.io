@@ -15,9 +15,9 @@ My passion for technology extends beyond data engineering. I’ve actively contr
 My data-driven analytical skills, combined with a can-do attitude, enable me to tackle complex technical requirements. Whether its business process modelling or mapping, I thrive on translating abstract concepts into clear technical specifications. My attention to detail and analytical troubleshooting abilities ensure that I address any issues that may arise during project execution.
 
 **Notable Achievements:**
-- [IAG 2018 hackathon for "Crazy enough if it may work" and being on the final list.](https://www.youtube.com/watch?v=jwBzT43SS3I)
+- [IAG 2018 hackathon for "Crazy enough if it may work" and being on the final list.](../assets/videos/iag_wechat.mp4)
 - DAG hackathon for a Slack-bot for huddle team.
 - [2nd prize of IAG 2019 and 2021 international Game of Code.](../assets/images/hackthron.jpg)
-- [2022 Finalist: Enterprise NRMA chatbot with GPT-3](https://www.youtube.com/watch?v=_VfLa9PNgBY)
+- [2022 Finalist: Enterprise NRMA chatbot with GPT-3](../assets/videos/GPT-iag_AI-Virtual-Customer-Assistant.mp4)
 - [2024 Postgres Contributor](../assets/images/postgres.png)
 
