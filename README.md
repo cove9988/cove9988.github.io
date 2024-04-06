@@ -1,8 +1,3 @@
----
-permalink: /about/
-title: "About"
----
-
 As an Experienced Data Engineer with over 20 years of expertise, I have successfully navigated the realms of data modelling, engineering, and database management. My skills extend to various databases, including Postgres, Greenplum, Sybase, and MS SQL, as well as big data technologies like Spark and Zeppelin. Throughout my career, I’ve demonstrated the ability to translate business requirements into precise technical specifications, leading project teams to successful outcomes. My track record includes implementing data solutions, automating CI/CD pipelines, and consistently improving code quality within high-performance data engineering teams.
 
 **Python Proficiency:**
