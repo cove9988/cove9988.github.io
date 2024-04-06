@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Paul Guo"
   avatar : "/assets/images/dragon.jpeg"
-  bio    : "A simple Platform to learn about data project and concepts.."
+  bio    : "Passionate about ML, RF, LLM, and automation, firmly believe we stand on the brink of the Singularity, where humanity will transcend Homo Sapiens to become Cyber.."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -119,7 +119,7 @@ tag_archive:
 comments:
   provider: "utterances"
   utterances:
-    theme: "github-light" # "github-dark"
+    theme: "github-dark" # "github-light" 
     issue_term: "pathname"
 
 analytics:
