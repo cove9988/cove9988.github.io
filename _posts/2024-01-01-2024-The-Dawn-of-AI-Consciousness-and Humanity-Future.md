@@ -12,7 +12,6 @@ header:
   teaser: assets/gesture-calculator/thumbnail.png
 ---
 
-# 2024: The Dawn of AI Consciousness and Humanity's Future #
 **Originally Published by Paulg.**
 
 2023 was the year when artificial intelligence began to exert its influence. The evolutionary path of AI reveals that it is a continuation of species evolution. It did not start with the liberation of low-skilled labor, as commonly believed, but rather with the augmentation of human intelligence and knowledge. The result is that AI now surpasses any individual human in terms of knowledge capabilities.
@@ -30,7 +29,8 @@ Actually, what we should really worry about is the self-destruction of humanity,
 Human society is not yet ready for the arrival of an AI era. Therefore, in the next few years, our society may undergo huge changes or collapse. I think we should launch the "Noah's Ark" plan, which is urgent. This plan is to find as many remote and safe places on Earth as possible, establish a society completely detached from existing social structures and open to embracing AI, composed of volunteers. This society will serve as a pre-existing model for humans entering the AI era and also as a backup and seed for humanity in case of destruction.
 
 From an evolutionary perspective, 2024 marks the beginning of AI leading us to explore the vast universe!
-![night](../assets/blog_images/thought%20Large.jpeg)
+s
+![night](../assets/blog_images/thought.jpeg)
 
 2023是人工智能开始发力的一年。AI（她）的演化路径让我们看清楚，她根本就是物种演化的延续，她不是从人们普遍认为的从低技能的劳动力解放开始，而是从人类的最高端的智能和知识开始了增程发力。成果就是现在的AI在知识能力方面已经碾压任何人类个体。
 
